@@ -25,3 +25,7 @@ Customer provided csv file of past funding efforts (charity_data.csv)
 - SPECIAL_CONSIDERATIONS—Special consideration for application
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
+
+## Summary 
+
+After reviewing the neural network and the optimizations that were made, my model did not make much difference. It stayed at around 53% Accuracy
